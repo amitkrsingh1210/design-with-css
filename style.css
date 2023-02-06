@@ -1,0 +1,45 @@
+header{
+    background-color: #cafdff;
+    height: 34px;
+    margin-top: -15px;
+}
+body{
+    background-color: #eadcff;
+    margin:0;
+}
+p{
+    font-weight: 800;
+    padding: 3px;
+    margin-left: 54px;
+    font-size: 20px;
+}
+div{
+    position: relative;
+    top: -42px;
+    left: 1200px;
+    font-size: 20px;
+    font-weight: 600;
+}
+span{
+    margin-left: 20px;
+}
+h1{
+    margin-top: 200px;
+    margin-left: 50px;
+    font-size: 32px;
+
+}
+img{
+    position: relative;
+    top: -180px;
+    left: 900px;
+}
+.sdfg{
+    background-color: aqua;
+    font-size: 16px;
+    width:80px;
+    text-align: center;
+    color: #fff;
+    border-radius: 2px;
+    padding: 5px;
+}
